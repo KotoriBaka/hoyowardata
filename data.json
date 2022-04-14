@@ -1,0 +1,374 @@
+[
+    {
+        "location":"Teyart",
+        "area":[
+            {   
+                "ID": 0,
+                "name":"Mondstadt(Phong quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Slime Phong",
+                        "category":"Common",
+                        "size":20,
+                        "sell":200,
+                        "image": "https://i.imgur.com/uNBizTb.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Slime Phong Lớn",
+                        "category":"Common",
+                        "size":30,
+                        "sell":250,
+                        "image": "https://i.imgur.com/uNBizTb.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Mắt Bão",
+                        "category":"Rare",
+                        "size":20,
+                        "sell":400,
+                        "image": "https://genshin.honeyhunterworld.com/img/enemy/m_20020101.png"
+                    },
+					{
+                        "ID":4,
+                        "name":"Phong nguyên bản",
+                        "category":"Legendary",
+                        "size":20,
+                        "sell":10000,
+                        "image": "https://genshin.honeyhunterworld.com/img/enemy/m_20040201.png"
+                    },
+					{
+                        "ID":6,
+                        "name":"Bóng ma - Phong",
+                        "category":"Epic",
+                        "size":20,
+                        "sell":2000,
+                        "image": "https://genshin.honeyhunterworld.com/img/enemy/m_20060301.png"
+                    },
+					{
+                        "ID":7,
+                        "name":"Hillichurl",
+                        "category":"Common",
+                        "size":20,
+                        "sell":200,
+                        "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Enemy_Hilichurl.png/"
+                    },
+					{
+                        "ID":8,
+                        "name":"Hilichurl Chiến Sĩ",
+                        "category":"Common",
+                        "size":20,
+                        "sell":400,
+                        "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Enemy_Hilichurl_Fighter.png/"
+                    },
+					{
+                        "ID":9,
+                        "name":"Hilichurl khiên gỗ",
+                        "category":"Common",
+                        "size":20,
+                        "sell":400,
+                        "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Enemy_Wooden_Shield_Hilichurl_Guard.png"
+                    },
+					{
+                        "ID":10,
+                        "name":"Hilichurl Xạ thủ",
+                        "category":"Uncommon",
+                        "size":20,
+                        "sell":1000,
+                        "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Enemy_Hilichurl_Shooter.png"
+                    },
+					{
+                        "ID":11,
+                        "name":"Hilichurl Khiên đá",
+                        "category":"Uncommon",
+                        "size":20,
+                        "sell":1000,
+                        "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Enemy_Rock_Shield_Hilichurl_Guard.png/"
+                    },
+					{
+                        "ID":12,
+                        "name":"Phù thuỷ Hilichurl Phong",
+                        "category":"Legendary",
+                        "size":20,
+                        "sell":10000,
+                        "image": "https://genshin.honeyhunterworld.com/img/enemy/m_21030301.png"
+                    },
+					{
+                        "ID":13,
+                        "name":"Bạo đồ Hilichurl khiên gỗ",
+                        "category":"Rare",
+                        "size":20,
+                        "sell":1500,
+                        "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Enemy_Wooden_Shieldwall_Mitachurl.png/"
+                    },
+					{
+                        "ID":14,
+                        "name":"Vua Thú Hoàng Kim",
+                        "category":"Legendary",
+                        "size":20,
+                        "sell":100000,
+                        "image": "https://static.wikia.nocookie.net/genshin-impact/images/2/29/K%E1%BA%BB_Th%C3%B9_Vua_Th%C3%BA_Ho%C3%A0ng_Kim_H%C3%ACnh_%E1%BA%A2nh.png/"
+                    },
+					{
+                        "ID":15,
+                        "name":"Kị sĩ Hắc Xà - Trảm Phong Kiếm",
+                        "category":"Epic",
+                        "size":20,
+                        "sell":40000,
+                        "image": "https://genshin.honeyhunterworld.com/img/enemy/m_22080101.png"
+                    },
+					{
+                        "ID":16,
+                        "name":"Đội Tiên Phong Fatui - Quân Tiên Phong Tay Đấm Phong",
+                        "category":"Epic",
+                        "size":20,
+                        "sell":50000,
+                        "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Enemy_Fatui_Anemoboxer_Vanguard.png"
+                    },
+					{
+                        "ID":17,
+                        "name":"Maguu Kenki",
+                        "category":"Rare",
+                        "size":20,
+                        "sell":1500,
+                        "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Enemy_Maguu_Kenki.png/"
+                    }
+                    
+                ]
+            },
+            {   
+                "ID": 1,
+                "name":"Liyue(Nham quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Peeper",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/9tBkTdD.jpg"
+                    }
+                ]   
+            },
+            {   
+                "ID": 2,
+                "name":"Kelp Forest",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },     
+			{   
+                "ID": 3,
+                "name":"Inazuma(Lôi quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },  
+			{   
+                "ID": 4,
+                "name":"Sumeru(Thảo quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },  
+			{   
+                "ID": 5,
+                "name":"Fontaine(Thủy quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },  
+			{   
+                "ID": 6,
+                "name":"Natlan(Hỏa quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },  
+			{   
+                "ID": 7,
+                "name":"Snezhnaya(Băng quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Slime Băng",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                        ]   
+            }
+        ]
+    },
+    {
+        "location":"Teyart",
+        "area":[
+            {   
+                "ID": 0,
+                "name":"Mondstadt(Phong quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Slime Phong",
+                        "category":"Common",
+                        "size":20,
+                        "sell":200,
+                        "image": "https://i.imgur.com/uNBizTb.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Slime Phong Lớn",
+                        "category":"Common",
+                        "size":30,
+                        "sell":250,
+                        "image": "https://i.imgur.com/uNBizTb.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Bóng ma phong",
+                        "category":"Uncommon",
+                        "size":20,
+                        "sell":400,
+                        "image": "https://i.imgur.com/uNBizTb.png"
+                    }
+                    
+                ]
+            },
+            {   
+                "ID": 1,
+                "name":"Liyue(Nham quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Peeper",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/9tBkTdD.jpg"
+                    }
+                ]   
+            },
+            {   
+                "ID": 2,
+                "name":"Kelp Forest",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },     
+			{   
+                "ID": 3,
+                "name":"Inazuma(Lôi quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },  
+			{   
+                "ID": 4,
+                "name":"Sumeru(Thảo quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },  
+			{   
+                "ID": 5,
+                "name":"Fontaine(Thủy quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },  
+			{   
+                "ID": 6,
+                "name":"Natlan(Hỏa quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                ]   
+            },  
+			{   
+                "ID": 7,
+                "name":"Snezhnaya(Băng quốc)",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    }
+                        ]   
+            }
+        ]
+    }
+]   

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Đồng dao",
+		"price": 400,
+		"durability": 50,
+		"countdown": 300,
+		"image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/ee/Undine%27s_Tale_%284%29.png/"
+	},
+	{
+		"name": "Taketa Sanada",
+		"price": 1500,
+		"durability": 70,
+		"countdown": 180,
+		"image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/e/e4/Flint_Sanada_%285%29.png/"
+	},
+	{
+		"name": "Thương Longinus",
+		"price": 4000,
+		"durability": 100,
+		"countdown": 150,
+		"image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/a/a7/Lance_of_Longinus_%284%29.png"
+	},
+	{
+		"name": "Phóng đại Ủ Máu",
+		"price": 8000,
+		"durability": 200,
+		"countdown": 100,
+		"image": "https://i.pinimg.com/originals/ba/02/5e/ba025ee42697befac606727d6a136732.png"
+	},
+	{
+		"name": "Kiếp diệt",
+		"price": 17500,
+		"durability": 450,
+		"countdown": 60,
+		"image": "https://uploadstatic-sea.mihoyo.com/strategyweb/20200911/2020091120075137293.png"
+	},
+	{
+		"name": "Chìa khoá rực lửa",
+		"price": 29000,
+		"durability": 900,
+		"countdown": 30,
+		"image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/f/f2/Key_of_Radiance_%285%29.png/"
+	},
+	{
+		"name": "Diên Vĩ Yên Nghỉ",
+		"price": 57000,
+		"durability": 2000,
+		"countdown": 15,
+		"image": "https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/5/59/Iris_of_the_Dreams_%284%29.png/"
+	},
+	{
+		"name": "𝖀Đôi mắt vực máu 𝖙",
+		"price": 10000000,
+		"durability": 60000,
+		"countdown": 0,
+		"image": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210601/2021060118385240919.png"
+	}
+]
